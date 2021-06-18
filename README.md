@@ -1,17 +1,17 @@
-ARGUELLO CASAS NICOLAS
+Hola soy  Nico, tengo 35 años y vivo en Cordoba Argentina.
+Estoy graduado como Desarrollador Full Stack.
+Actualmete estoy en la busqueda activa de trabajo.
+Lenguajes y tecnologias que manejo:
+- JS Java Script
+- HTML
+- CSS
+- React/ Redux
+- Node JS
+- Express
+- Postgresql
+- Sequelize
 
-
-<!--
-**nicoarguello/nicoarguello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contactame: 
+- email: nicoarguello36@gmail.com
+- LinkedIn: www.linkedin.com/in/nicolas-arguello-casas-full-stack-web-developer 
+- Tel: +54 351 6508538.
