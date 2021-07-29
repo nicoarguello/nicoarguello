@@ -17,4 +17,4 @@ Contactame:
 - Tel: +54 351 6508538.
 
 
-<img src='https://user-images.githubusercontent.com/75813108/127423915-45a25200-44d6-4ccf-a964-a3519bfd5c37.png' alt='' styles= width: '10px'/>
+<img src='https://user-images.githubusercontent.com/75813108/127423915-45a25200-44d6-4ccf-a964-a3519bfd5c37.png' alt='' styles={ width: '10px'}/>
