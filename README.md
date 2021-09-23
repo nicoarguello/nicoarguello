@@ -23,7 +23,7 @@ Actualmete estoy en la busqueda activa de trabajo.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicoarguello" alt="nicoarguello" /></a> </p>
  -->
 <!-- - <h5 align="left">Visita mi perfil de Linkedin</h5> -->
-- <p align="left">Visita mi perfil de Linkedin: <a href="https://linkedin.com/in/https://www.linkedin.com/in/nicolas-arguello-casas-full-stack-web-developer-javascript-html-css-react-redux-express" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicolas-arguello-casas-full-stack-web-developer-javascript-html-css-react-redux-express" height="12" width="12" /></a>
+> <p align="left">Visita mi perfil de Linkedin: <a href="https://linkedin.com/in/https://www.linkedin.com/in/nicolas-arguello-casas-full-stack-web-developer-javascript-html-css-react-redux-express" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicolas-arguello-casas-full-stack-web-developer-javascript-html-css-react-redux-express" height="12" width="12" /></a>
  
 </p>
 
