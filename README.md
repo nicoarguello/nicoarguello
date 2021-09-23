@@ -1,5 +1,7 @@
+<p align="center">
 <img src="https://c.tenor.com/7UkHPCX9WNYAAAAC/minions-happy.gif" alt="javascript" width="80%" height="400" display=flex align=center/>
-<!-- <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="javascript" width="100%" height="400"/> -->
+</p>
+ <!-- <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="javascript" width="100%" height="400"/> -->
 
 Hola soy  Nico, tengo 35 años y vivo en Cordoba Argentina.
 Estoy graduado como Desarrollador Full Stack.
