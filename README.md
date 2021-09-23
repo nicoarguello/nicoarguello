@@ -52,6 +52,7 @@ Actualmete estoy en la busqueda activa de trabajo.
   <a href="https://redux.js.org" target="_blank"> Redux  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/> </a>
 </p>
 
+<br>
 
 <p align="center">
 <img src="https://c.tenor.com/7UkHPCX9WNYAAAAC/minions-happy.gif" alt="javascript" width="80%" height="300" display=flex align=center/>
