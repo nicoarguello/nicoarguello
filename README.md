@@ -59,6 +59,6 @@ Actualmente estoy en la busqueda de oportunidades que me permitan seguir desarro
 <br>
 
 <p align="center">
-<img src="https://c.tenor.com/7UkHPCX9WNYAAAAC/minions-happy.gif" alt="javascript" width="70%" height="200" display=flex align=center/>
+<img src="https://c.tenor.com/7UkHPCX9WNYAAAAC/minions-happy.gif" alt="javascript" width="60%" height="200" display=flex align=center/>
 </p>
 
