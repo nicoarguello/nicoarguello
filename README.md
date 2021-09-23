@@ -46,6 +46,8 @@ Actualmete estoy en la busqueda activa de trabajo.
 
 ### Backend y Base de Datos:
 
+<br>
+
   <p align="center">
   <a href="https://nodejs.org" target="_blank"> Node.js  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="30"/> </a>
   <a href="https://expressjs.com" target="_blank">, Express   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="30"/> </a>  
@@ -54,6 +56,8 @@ Actualmete estoy en la busqueda activa de trabajo.
   </p>
   
 ### Frontend:
+
+<br>
 
   <p align="center">            
   <a href="https://reactjs.org/" target="_blank"> React  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/> </a>      
