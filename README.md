@@ -32,21 +32,21 @@ Actualmete estoy en la busqueda activa de trabajo.
  
 </p>
 
-<h3 align="left">Lenguajes y tecnologias que manejo:</h3>
+## Lenguajes y tecnologias que manejo:
 <p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> JavaScript  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a>   
   <a href="https://www.w3.org/html/" target="_blank">, HTML5  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> </a>    
   <a href="https://www.w3schools.com/css/" target="_blank">, CSS  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> </a>
   <a href="https://git-scm.com/" target="_blank">, Git  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> </a>
 </p>
-<h4 align="left">Backend y Base de Datos:</h4>
+### Backend y Base de Datos:
   <p align="center">
   <a href="https://nodejs.org" target="_blank"> Node.js  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="30"/> </a>
   <a href="https://expressjs.com" target="_blank">, Express   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="30"/> </a>  
     <a href="https://www.postgresql.org" target="_blank"> Postgresql <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/> </a> 
   <a href="https://postman.com" target="_blank"> Postman  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25"/> </a>
   </p>
-<h4 align="left">Frontend:</h4>
+### Frontend:
   <p align="center">            
   <a href="https://reactjs.org/" target="_blank"> React  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/> </a>      
   <a href="https://redux.js.org" target="_blank"> Redux  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/> </a>
