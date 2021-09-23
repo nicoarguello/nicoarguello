@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT69PGRlnj3l2zus99-UqfH_ZXf7iP2q5aZ_g&usqp=CAU" alt="javascript" width="" height="20"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT69PGRlnj3l2zus99-UqfH_ZXf7iP2q5aZ_g&usqp=CAU" alt="javascript" width="200" height="200"/>
 
 Hola soy  Nico, tengo 35 años y vivo en Cordoba Argentina.
 Estoy graduado como Desarrollador Full Stack.
