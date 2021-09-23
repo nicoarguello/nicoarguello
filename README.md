@@ -34,7 +34,7 @@ Actualmete estoy en la busqueda activa de trabajo.
   <a href="https://git-scm.com/" target="_blank">, Git  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> </a>
 </p>
 
-<br
+<br>
 
 ### Backend y Base de Datos:
 
@@ -59,6 +59,6 @@ Actualmete estoy en la busqueda activa de trabajo.
 <br>
 
 <p align="center">
-<img src="https://c.tenor.com/7UkHPCX9WNYAAAAC/minions-happy.gif" alt="javascript" width="80%" height="300" display=flex align=center/>
+<img src="https://c.tenor.com/7UkHPCX9WNYAAAAC/minions-happy.gif" alt="javascript" width="70%" height="200" display=flex align=center/>
 </p>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicoarguello&show_icons=true&locale=en&layout=compact" alt="nicoarguello" /></p> -->
+
