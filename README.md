@@ -1,5 +1,5 @@
 <p align="center">
-<img src="http://2.bp.blogspot.com/-kASbZIqqzX8/T8P0uEAbUFI/AAAAAAAAABo/alSB2zUAmK8/s1600/thump_7403174bienvenidos-homero.png" width="80%" height="200" display=flex align=center/>
+<img src="http://2.bp.blogspot.com/-kASbZIqqzX8/T8P0uEAbUFI/AAAAAAAAABo/alSB2zUAmK8/s1600/thump_7403174bienvenidos-homero.png" width="70%" height="150" display=flex align=center/>
 </p>
  <!-- <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="javascript" width="100%" height="400"/> -->
 
