@@ -13,7 +13,7 @@ Actualmete estoy en la busqueda activa de trabajo.
  -->
 <h3 align="left">Contactame:</h3>
 
-- email: nicoarguello36@gmail.com
+> email: nicoarguello36@gmail.com
 <!-- - LinkedIn: www.linkedin.com/in/nicolas-arguello-casas-full-stack-web-developer  -->
 - Tel: +54 351 6508538.
 
