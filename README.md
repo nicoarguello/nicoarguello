@@ -3,7 +3,7 @@
 </p>
  <!-- <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="javascript" width="100%" height="400"/> -->
 
-Hola soy  Nico, tengo 35 años y vivo en Cordoba Argentina.
+Hola soy  Nico, tengo 36 años y vivo en Cordoba Argentina.
 Estoy graduado como Desarrollador Full Stack.
 Actualmete estoy en la busqueda activa de trabajo.
 <!-- Lenguajes y tecnologias que manejo:
@@ -16,7 +16,7 @@ Actualmete estoy en la busqueda activa de trabajo.
 - Postgresql
 - Sequelize
  -->
-<h3 align="left">Contactame:</h3>
+## Contactame:
 
 > email: nicoarguello36@gmail.com
 <!-- - LinkedIn: www.linkedin.com/in/nicolas-arguello-casas-full-stack-web-developer  -->
