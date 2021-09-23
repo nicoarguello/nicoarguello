@@ -1,7 +1,10 @@
 <p align="center">
 <img src="http://2.bp.blogspot.com/-kASbZIqqzX8/T8P0uEAbUFI/AAAAAAAAABo/alSB2zUAmK8/s1600/thump_7403174bienvenidos-homero.png" width="70%" height="150" display=flex align=center/>
 </p>
- <!-- <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="javascript" width="100%" height="400"/> -->
+
+<br>
+
+
 
 Hola soy  Nico, tengo 36 años y vivo en Cordoba Argentina.
 Estoy graduado como Desarrollador Full Stack.
@@ -33,6 +36,7 @@ Actualmete estoy en la busqueda activa de trabajo.
 </p>
 
 ## Lenguajes y tecnologias que manejo:
+
 <p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> JavaScript  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a>   
   <a href="https://www.w3.org/html/" target="_blank">, HTML5  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> </a>    
@@ -41,6 +45,7 @@ Actualmete estoy en la busqueda activa de trabajo.
 </p>
 
 ### Backend y Base de Datos:
+
   <p align="center">
   <a href="https://nodejs.org" target="_blank"> Node.js  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="30"/> </a>
   <a href="https://expressjs.com" target="_blank">, Express   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="30"/> </a>  
@@ -49,6 +54,7 @@ Actualmete estoy en la busqueda activa de trabajo.
   </p>
   
 ### Frontend:
+
   <p align="center">            
   <a href="https://reactjs.org/" target="_blank"> React  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/> </a>      
   <a href="https://redux.js.org" target="_blank"> Redux  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/> </a>
