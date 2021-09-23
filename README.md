@@ -1,5 +1,5 @@
 <img src="https://davidwalsh.name/demo/zach-gal-thinking.gif" alt="javascript" width="100%" height="400"/>
-<img src="https://ak.picdn.net/shutterstock/videos/1010597930/thumb/12.jpg" alt="javascript" width="100%" height="400"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="javascript" width="100%" height="400"/>
 
 Hola soy  Nico, tengo 35 años y vivo en Cordoba Argentina.
 Estoy graduado como Desarrollador Full Stack.
