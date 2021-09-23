@@ -9,33 +9,23 @@
 Hola soy  Nico, tengo 36 años y vivo en Cordoba Argentina.
 Estoy graduado como Desarrollador Full Stack.
 Actualmete estoy en la busqueda activa de trabajo.
-<!-- Lenguajes y tecnologias que manejo:
-- JS Java Script
-- HTML
-- CSS
-- React/ Redux
-- Node JS
-- Express
-- Postgresql
-- Sequelize
- -->
+
+<br>
+
 ## Contactame:
 
 > email: nicoarguello36@gmail.com
-<!-- - LinkedIn: www.linkedin.com/in/nicolas-arguello-casas-full-stack-web-developer  -->
 
 > Tel: +54 351 6508538.
 
-<!-- <h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicoarguello" alt="nicoarguello" /></a> </p>
- -->
-<!-- - <h5 align="left">Visita mi perfil de Linkedin</h5> -->
-> <p align="left">Visita mi perfil de Linkedin: <a href="https://linkedin.com/in/https://www.linkedin.com/in/nicolas-arguello-casas-full-stack-web-developer-javascript-html-css-react-redux-express" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicolas-arguello-casas-full-stack-web-developer-javascript-html-css-react-redux-express" height="12" width="12" /></a>
- 
+> <p align="left">Visita mi perfil de Linkedin: <a href="https://linkedin.com/in/https://www.linkedin.com/in/nicolas-arguello-casas-full-stack-web-developer-javascript-html-css-react-redux-express" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicolas-arguello-casas-full-stack-web-developer-javascript-html-css-react-redux-express" height="12" width="12" /></a> 
 </p>
 
+<br>
+
 ## Lenguajes y tecnologias que manejo:
+    
+<br>   
 
 <p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> JavaScript  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a>   
@@ -43,6 +33,8 @@ Actualmete estoy en la busqueda activa de trabajo.
   <a href="https://www.w3schools.com/css/" target="_blank">, CSS  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> </a>
   <a href="https://git-scm.com/" target="_blank">, Git  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> </a>
 </p>
+
+<br
 
 ### Backend y Base de Datos:
 
