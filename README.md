@@ -4,11 +4,11 @@
 
 <br>
 
-
+## Sobre mi:
 
 Hola soy  Nico, tengo 36 años y vivo en Cordoba Argentina.
 Estoy graduado como Desarrollador Full Stack.
-Actualmete estoy en la busqueda activa de trabajo.
+Actualmente estoy en la busqueda de oportunidades que me permitan seguir desarrollando mis habilidades, para crecer personal y profecionalmente, dentro de un entorno de trabajo.
 
 <br>
 
