@@ -39,6 +39,7 @@ Actualmete estoy en la busqueda activa de trabajo.
   <a href="https://www.w3schools.com/css/" target="_blank">, CSS  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> </a>
   <a href="https://git-scm.com/" target="_blank">, Git  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> </a>
 </p>
+
 ### Backend y Base de Datos:
   <p align="center">
   <a href="https://nodejs.org" target="_blank"> Node.js  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="30"/> </a>
@@ -46,6 +47,7 @@ Actualmete estoy en la busqueda activa de trabajo.
     <a href="https://www.postgresql.org" target="_blank"> Postgresql <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/> </a> 
   <a href="https://postman.com" target="_blank"> Postman  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25"/> </a>
   </p>
+  
 ### Frontend:
   <p align="center">            
   <a href="https://reactjs.org/" target="_blank"> React  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/> </a>      
